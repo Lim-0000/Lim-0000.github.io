@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "deeplink_cookbook",
-    "sha256_cert_fingerprints": ["A9:51:F0:27:B6:40:D4:49:7F:E3:D3:6E:76:BF:D6:0F:E5:21:DA:EF:59:C2:12:BB:25:A2:F9:CF:3D:DF:5A:20"]
+    "sha256_cert_fingerprints": ["D3:23:78:94:95:13:54:B4:B5:C2:48:A3:8F:E3:43:4A:4C:A1:E4:7E:FC:39:C1:AE:2A:3B:BE:71:F8:AD:6A:32"]
   }
 }]

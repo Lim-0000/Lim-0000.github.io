@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "deeplink_cookbook",
+    "package_name": "com.example.deeplink_cookbook",
     "sha256_cert_fingerprints": ["D3:23:78:94:95:13:54:B4:B5:C2:48:A3:8F:E3:43:4A:4C:A1:E4:7E:FC:39:C1:AE:2A:3B:BE:71:F8:AD:6A:32"]
   }
 }]
